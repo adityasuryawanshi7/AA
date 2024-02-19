@@ -1,0 +1,39 @@
+body{
+    background: rgb(223, 125, 223);
+    
+}
+.a{
+    mix-blend-mode:multiply;
+    margin-top: 6%;
+    margin-left: 40%;
+   
+}
+.img1{
+    height:250px;
+    width:250px;
+
+}
+.text{
+    margin-left: 0%;
+    font-size:300%;
+    margin-top :2%;
+    text-align: center;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.btn{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5% ;
+    
+}
+button{
+    height:50px;
+    width:10%;
+    border-radius: 10px;
+    background: rgb(45, 82, 169);
+    color: white;
+    font-size:100%;
+}
